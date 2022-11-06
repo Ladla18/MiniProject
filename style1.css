@@ -102,7 +102,7 @@ header .navbar a:hover{
 }
 
 .home{
-  min-height: 100vh;
+  min-height: 60vh;
   display: flex;
   align-items: center;
   background:url(../images/home-bg.jpg) no-repeat;
